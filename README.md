@@ -67,7 +67,3 @@ Run it with:
 ```
 ./program < input.txt
 ```
-
-## Context
-
-This project was developed for the **Algorithms Analysis and Synthesis** course at **Instituto Superior Técnico**.
